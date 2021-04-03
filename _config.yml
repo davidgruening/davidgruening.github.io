@@ -85,7 +85,7 @@ author:
   bio              : "Student and researcher at Heidelberg University. Interested in too many things in psychology. On the hunt for a concentration."
   location         : "Heidelberg, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a2QfCl4AAAAJ&hl=de&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
