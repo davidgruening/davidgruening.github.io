@@ -1,15 +1,14 @@
 ---
-title: "Psychological perversities and populism"
+title: "Proper understanding of grounded procedures of separation needs a dual inheritance approach"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Schubert, T. W., & Grüning, D. J. (2021). Proper understanding of grounded procedures of separation needs a dual inheritance approach. Behavioral and Brain Sciences, 44, E23. doi: 10.1017/S0140525X20000394'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Schubert, T. W., & Grüning, D. J. (2021). Proper understanding of grounded procedures of separation needs a dual inheritance approach. Behavioral and Brain Sciences, 44, E23. doi: 10.1017/S0140525X20000394
