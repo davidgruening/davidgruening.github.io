@@ -3,7 +3,7 @@ title: "Statistics in Social Cognition Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Brown University, Decision Science"
+venue: "Brown University, Decision Sciences"
 date: 2020-02-01
 location: "Brown, USA"
 ---
