@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Science Communication "
-    url: /sciencecommunication/
+    url: /_sciencecommunication/
 
   - title: "Creative Writing"
-    url: /creativewriting/
+    url: /_creativewriting/
