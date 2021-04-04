@@ -9,8 +9,8 @@ main:
   - title: "Supervision & Teaching"
     url: /teaching/    
     
-  - title: "Creative Writing"
-    url: /creativewriting/
-
   - title: "Science Communication "
     url: /sciencecommunication/
+
+- title: "Creative Writing"
+    url: /creativewriting/
