@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/cumulative-redundancy-bias
 venue: "Current Research in Adaptive Cognition (Heidelberg, Germany)"
-date: 2019-02-02
+date: 2019-03-01
 location: "Heidelberg, Germany"
 ---
 
