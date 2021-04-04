@@ -1,17 +1,16 @@
 ---
-title: 'the boat is sailing.'
-date: 2020-09-12
-permalink: /cw/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "Graduate Supervision: Ex-partner attitude"
+collection: teaching
+type: "Supervision"
+permalink: /cw/graduate-supervision-2
+venue: "University of Mannheim/Heidelberg University, Psychology"
+date: 2021-01-01
+location: "Mannheim, Germany"
 ---
 
+Supervision for a research project with the goal of publication. 
+Title: "Ex-partner attitudes on a borderline spectrum" 
 
-
-Headings are cool
-======
 
 The boat sails,
 high waves surround it.
