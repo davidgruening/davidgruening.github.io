@@ -1,20 +1,33 @@
 ---
-title: "Teaching experience 1"
+title: "Statistics in Social Cognition Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Brown Univeersity, Behavioral Science"
+date: 2020-02-01
+location: "Brown, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching the statistical parts of the Social Cognition Lab, including: 
 ======
+Introduction to Expert Theory 
+Introduction to R and JASP 
+Non-parametric testing: Wilcoxon test, Mann Whitney-U test and Conover-Iman test 
+Introduction to Bayesian statistics 
+Bayesian analyses in psychological research 
+Exploratory factor analysis 
+Additional analysis-session to advance students’ research-project analyses 
 
-Heading 2
-======
+& 
 
-Heading 3
-======
+Supervision of student research projects: 
+====== 
+
+ Project 1: Rolling a die vs. thinking - what to prefer? 
+ Project 2: Ultimatum game - rationality and morality 
+ Project 3: Five group projects,
+		1. COVID & priming
+		2. Cognitive load’s impairment for anchor effects
+		3. IAT on stereotypes caused by COVID
+		4. The ultimatum game and primes of danger
+		5. Donating in times of COVID 
