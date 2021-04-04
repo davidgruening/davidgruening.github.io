@@ -18,7 +18,7 @@ ____
 
 [“Oliver wakes up”. (24.02.2020)](http://kamamutalab.org/weekly-most-moving-moment/most-moving-moment-oliver-wakes-up/) 
 
-[Mächtig verzerrter Eindruck. (26.02.2020)](uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/) 
+[Mächtig verzerrter Eindruck. (26.02.2020, German)](https://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/) 
 
 [Two quotes about the dead and kama muta. (02.03.2020)](http://kamamutalab.org/weekly-most-moving-moment/weekly-most-moving-moment-a-quote-on-religious-experience-of-kama-muta/) 
 
@@ -32,7 +32,7 @@ ____
 
 [A stopwatch and Ecstasy. (27.04.2020)](http://kamamutalab.org/weekly-most-moving-moment/weekly-most-moving-moment-a-stopwatch-and-ecstasy/) 
 
-[Behandle mich einzigartig! (29.04.2020)](uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/) 
+[Behandle mich einzigartig! (29.04.2020, German)](https://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/) 
 
 [Learning from the ancient Greeks. (04.05.2020)](http://kamamutalab.org/weekly-most-moving-moment/weekly-most-moving-moment-learning-from-the-greeks/) 
 
@@ -64,6 +64,6 @@ ____
 
 [Midnight ride. (02.11.2020)](http://kamamutalab.org/weekly-most-moving-moment/most-moving-moment-midnight-drive/) 
 
-[Sei kreativ, offenbare dich. (09.12.2020)](https://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/) 
+[Sei kreativ, offenbare dich. (09.12.2020, German)](https://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/) 
 
 [Happier Than Thou. (15.03.2021)](https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou) 
