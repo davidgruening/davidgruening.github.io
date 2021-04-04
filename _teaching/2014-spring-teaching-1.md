@@ -10,26 +10,26 @@ location: "Brown, USA"
 
 Teaching the statistical parts of the Social Cognition Lab, including: 
 
-Introduction to Expert Theory 
+- Introduction to Expert Theory 
 
-Introduction to R and JASP 
+- Introduction to R and JASP 
 
-Non-parametric testing: Wilcoxon test, Mann Whitney-U test and Conover-Iman test 
+- Non-parametric testing: Wilcoxon test, Mann Whitney-U test and Conover-Iman test 
 
-Introduction to Bayesian statistics 
+- Introduction to Bayesian statistics 
 
-Bayesian analyses in psychological research 
+- Bayesian analyses in psychological research 
 
-Exploratory factor analysis 
+- Exploratory factor analysis 
 
-Additional analysis-session to advance students’ research-project analyses 
+- Additional analysis-session to advance students’ research-project analyses 
 
 & 
 
-Supervision of student research projects: 
+- Supervision of student research projects: 
 
-Project 1: Rolling a die vs. thinking - what to prefer? 
+- Project 1: Rolling a die vs. thinking - what to prefer? 
 
-Project 2: Ultimatum game - rationality and morality 
+- Project 2: Ultimatum game - rationality and morality 
 
-Project 3: Five group projects, (1) COVID & priming, (2) Cognitive load’s impairment for anchor effects, (3) IAT on stereotypes caused by COVID, (4) The ultimatum game and primes of danger, (5) Donating in times of COVID 
+- Project 3: Five group projects, (1) COVID & priming, (2) Cognitive load’s impairment for anchor effects, (3) IAT on stereotypes caused by COVID, (4) The ultimatum game and primes of danger, (5) Donating in times of COVID 
