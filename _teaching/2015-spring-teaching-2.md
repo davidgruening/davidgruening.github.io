@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Undergraduate Supervision: Ex-partner attitude"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Supervision"
+permalink: /teaching/undergraduate-supervision-1
+venue: "University Mannheim, Psychology"
+date: 2021-01-01
+location: "Mannheim, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Supervision for a research project with the goal of publication. 
+Title: "Ex-partner attitude: gender, physical attractiveness and attachment style as moderators 
