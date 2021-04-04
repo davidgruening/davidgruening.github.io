@@ -10,10 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Science Communication "
-    url: /portfolio/
+    url: /cv/
 
   - title: "Creative Writing"
-    url: /cw/
-
-  - title: "CV"
-    url: /cv/
+    url: /portfolio/ 
