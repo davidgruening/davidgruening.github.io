@@ -1,7 +1,7 @@
 ---
 title: 'the boat is sailing.'
 date: 2020-09-12
-permalink: /creativewriting/the-boat-is-sailing
+permalink: /cw/the-boat-is-sailing
 tags:
   - cool posts
   - category1
