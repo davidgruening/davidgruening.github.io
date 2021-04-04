@@ -52,12 +52,9 @@ Er lächelte: "Ja, einfach nur so dolle du überhaupt kannst."
 
 
 "Schieß ich die dolle raus. Auf Mama! So dolle wie geht.
-
-
 ...
-
-
 Das ist doch versuchen, Papa, oder?"
 
 
 "Ja, das ist versuchen, Paul."
+
