@@ -3,13 +3,13 @@ title: "Statistics in Social Cognition Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Brown Univeersity, Behavioral Science"
+venue: "Brown University, Decision Science"
 date: 2020-02-01
 location: "Brown, USA"
 ---
 
 Teaching the statistical parts of the Social Cognition Lab, including: 
-======
+------
 Introduction to Expert Theory 
 Introduction to R and JASP 
 Non-parametric testing: Wilcoxon test, Mann Whitney-U test and Conover-Iman test 
@@ -21,7 +21,7 @@ Additional analysis-session to advance students’ research-project analyses
 & 
 
 Supervision of student research projects: 
-====== 
+------
 
  Project 1: Rolling a die vs. thinking - what to prefer? 
  Project 2: Ultimatum game - rationality and morality 
