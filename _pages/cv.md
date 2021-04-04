@@ -8,6 +8,8 @@ redirect_from:
 ---
 Research associate & member of the scientific board, [Prosocial Design Network](https://www.prosocialdesign.org)
 
+& 
+
 <ul>
 <li>[Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? (02.10.2019, German)](https://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/)</li>
 
