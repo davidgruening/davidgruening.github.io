@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-CV here: https://drive.google.com/file/d/1mFU32mf-T8IPpe6gus4pleXowLUWBpdL/view?usp=sharing
-
+<a href="https://drive.google.com/file/d/1mFU32mf-T8IPpe6gus4pleXowLUWBpdL/view?usp=sharing" target="_blank">CV here</a> 
 
