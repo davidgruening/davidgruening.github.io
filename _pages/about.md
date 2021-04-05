@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a href="https://drive.google.com/file/d/1mFU32mf-T8IPpe6gus4pleXowLUWBpdL/view?usp=sharing" target="_blank">David's CV</a></li> 
+<a href="https://drive.google.com/file/d/1mFU32mf-T8IPpe6gus4pleXowLUWBpdL/view?usp=sharing" target="_blank">David's CV</a> 
 
 
