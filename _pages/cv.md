@@ -10,7 +10,8 @@ Research associate & member of the scientific board, [Prosocial Design Network](
 
 ____
 
-Collaborator at [SciBeh] (https://www.scibeh.org)
+Collaborator at [SciBeh](https://www.scibeh.org)
+
 ____
 <a href="uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/" target="_blank">Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? (02.10.2019, German)</a> 
 
