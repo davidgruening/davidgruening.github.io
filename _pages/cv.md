@@ -6,9 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h3>Podcast: The Psychology Chat </h3>
-<br>(Season 1: Psychology & Politics)
-<br>Upcoming guests: Thomas Schubert (University of Oslo), Philipp Lorenz-Spreen (Max-Planck Institute), Joachim Krueger (Brown University), Clemens Lechner (GESIS), Anastasia Kozyreva (Max-Planck Institute) 
+
+____
+**Upcoming Podcast:** Psychology Chat 
+<br>Season 1: *Psychology & Politics* 
+<br><br>Upcoming guests: Thomas Schubert (University of Oslo), Philipp Lorenz-Spreen (Max-Planck Institute), Joachim Krueger (Brown University), Clemens Lechner (GESIS), Anastasia Kozyreva (Max-Planck Institute) 
 
 ____
 
