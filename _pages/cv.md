@@ -9,8 +9,10 @@ redirect_from:
 
 ____
 **Upcoming Podcast:** [Psychology Chat](https://www.prosocialdesign.org) 
-<br>Season 1: *Psychology & Politics* 
-<br><br>Guests: Thomas Schubert (University of Oslo), Philipp Lorenz-Spreen (Max-Planck Institute), Joachim Krueger (Brown University), Clemens Lechner (GESIS), Anastasia Kozyreva (Max-Planck Institute) 
+<ul>
+  <li>Season 1: *Psychology & Politics*</li>
+  <li>Guests: Thomas Schubert (University of Oslo), Philipp Lorenz-Spreen (Max-Planck Institute), Joachim Krueger (Brown University), Clemens Lechner (GESIS), Anastasia Kozyreva (Max-Planck Institute)</li>
+  </ul>
 
 ____
 
