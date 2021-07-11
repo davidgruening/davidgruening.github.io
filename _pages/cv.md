@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**Podcast:** Psychology Chat 
+Season 1: Psychology & Politics
+Upcoming guests: Thomas Schubert (University of Oslo), Philipp Lorenz-Spreen (Max-Planck Institute), Joachim Krueger (Brown University), Clemens Lechner (GESIS), Anastasia Kozyreva (Max-Planck Institute) 
+
+____
+
 Research associate & member of the scientific board, [Prosocial Design Network](https://www.prosocialdesign.org)
 
 ____
