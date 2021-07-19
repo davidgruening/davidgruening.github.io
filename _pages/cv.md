@@ -16,7 +16,7 @@ ____
 
 ____
 
-Research associate & member of the scientific board, [Prosocial Design Network](https://www.prosocialdesign.org)
+Research associate & member of the scientific board, [Prosocial Design Network](https://www.prosocialdesign.org/profile/david-gruning)
 
 ____
 
