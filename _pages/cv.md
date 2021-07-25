@@ -20,7 +20,7 @@ Research associate & member of the scientific board, [Prosocial Design Network](
 
 ____
 
-Krueger, J. I., & Grüning, D. J. (2021). Happier Than Thou: Subjective well-being meets social comparison, <i>Psychology Today</i>. [https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou] (https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou)
+Krueger, J. I., & Grüning, D. J. (2021). Happier Than Thou: Subjective well-being meets social comparison, <i>Psychology Today</i>. https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou 
 
 ____
 
