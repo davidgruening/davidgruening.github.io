@@ -29,15 +29,15 @@ Krueger, J. I., & Grüning, D. J. (15.03.2021). Happier Than Thou: Subjective we
 ____
 Public Science Articles: 
 
-Grüning, D. J. (14.04.2021). Sind wir schon da? <i>Forschung erleben</i>, German. [https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/] (https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/)
+Grüning, D. J. (14.04.2021). Sind wir schon da? <i>Forschung erleben</i>, German. <a href="https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/" target="_blank">https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/
 
 Grüning, D. J. (09.12.2020). Sei kreative, offenbare dich! <i>Forschung erleben</i>, German. <a href="http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/" target="_blank">http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/
 
-Grüning, D. J. (29.04.2020). Behandle mich einzigartig! <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/] (http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/)
+Grüning, D. J. (29.04.2020). Behandle mich einzigartig! <i>Forschung erleben</i>, German. <a href="http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/" target="_blank">http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/
 
-Grüning, D. J. (26.02.2020). Mächtig verzerrter Eindruck. <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/] (http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/)
+Grüning, D. J. (26.02.2020). Mächtig verzerrter Eindruck. <i>Forschung erleben</i>, German. <a href="http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/" target="_blank">http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/
 
-Grüning, D. J. (02.10.2019). Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/] (http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/)
+Grüning, D. J. (02.10.2019). Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? <i>Forschung erleben</i>, German. <a href="http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/" target="_blank">http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/
 
 ____
 Bits related to Science: 
