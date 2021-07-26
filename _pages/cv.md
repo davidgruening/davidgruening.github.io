@@ -18,15 +18,12 @@ ____
 
 Research Associate & Member of the Scientific Board at [Prosocial Design Network](https://www.prosocialdesign.org/profile/david-gruning)
 
+Collaborator at [SciBeh](https://www.scibeh.org)
 ____
 
 Krueger, J. I., & Grüning, D. J. (26.07.2021). Einhorn’s Theory of Happiness: The statistical mind looks beyond pleasure and pain. <i>Psychology Today</i>. https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness 
 
 Krueger, J. I., & Grüning, D. J. (15.03.2021). Happier Than Thou: Subjective well-being meets social comparison, <i>Psychology Today</i>. https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou 
-
-____
-
-Collaborator at [SciBeh](https://www.scibeh.org)
 
 ____
 Public Science Articles: 
