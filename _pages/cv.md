@@ -19,24 +19,25 @@ ____
 Research Associate & Member of the Scientific Board at [Prosocial Design Network](https://www.prosocialdesign.org/profile/david-gruning)
 
 Collaborator at [SciBeh](https://www.scibeh.org)
+
 ____
 
-Krueger, J. I., & Grüning, D. J. (26.07.2021). Einhorn’s Theory of Happiness: The statistical mind looks beyond pleasure and pain. <i>Psychology Today</i>. https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness 
+Krueger, J. I., & Grüning, D. J. (26.07.2021). Einhorn’s Theory of Happiness: The statistical mind looks beyond pleasure and pain. <i>Psychology Today</i>. [https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness] (https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness)
 
-Krueger, J. I., & Grüning, D. J. (15.03.2021). Happier Than Thou: Subjective well-being meets social comparison, <i>Psychology Today</i>. https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou 
+Krueger, J. I., & Grüning, D. J. (15.03.2021). Happier Than Thou: Subjective well-being meets social comparison, <i>Psychology Today</i>. [https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou] (https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou)
 
 ____
 Public Science Articles: 
 
-Grüning, D. J. (14.04.2021). Sind wir schon da? <i>Forschung erleben</i>, German. https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/ 
+Grüning, D. J. (14.04.2021). Sind wir schon da? <i>Forschung erleben</i>, German. [https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/] (https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/)
 
-Grüning, D. J. (09.12.2020). Sei kreative, offenbare dich! <i>Forschung erleben</i>, German. http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/ 
+Grüning, D. J. (09.12.2020). Sei kreative, offenbare dich! <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/] (http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/)
 
-Grüning, D. J. (29.04.2020). Behandle mich einzigartig! <i>Forschung erleben</i>, German. http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/ 
+Grüning, D. J. (29.04.2020). Behandle mich einzigartig! <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/] (http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/)
 
-Grüning, D. J. (26.02.2020). Mächtig verzerrter Eindruck. <i>Forschung erleben</i>, German. http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/ 
+Grüning, D. J. (26.02.2020). Mächtig verzerrter Eindruck. <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/] (http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/)
 
-Grüning, D. J. (02.10.2019). Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? <i>Forschung erleben</i>, German. http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/ 
+Grüning, D. J. (02.10.2019). Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/] (http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/)
 
 ____
 Bits related to Science: 
