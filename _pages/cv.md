@@ -36,7 +36,7 @@ Grüning, D. J. (29.04.2020). Behandle mich einzigartig! <i>Forschung erleben</i
 
 Grüning, D. J. (26.02.2020). Mächtig verzerrter Eindruck. <i>Forschung erleben</i>, German. http://uni-mannheim.de/forschung-erleben/artikel/maechtig-verzerrter-eindruck/ 
 
-Grüning, D. J. (02.10.2019). Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? <i>Forschung erleben</i>, German. uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/ 
+Grüning, D. J. (02.10.2019). Besser als der Durchschnitt und trotzdem und trotzdem zufrieden? <i>Forschung erleben</i>, German. http://uni-mannheim.de/forschung-erleben/artikel/besser-als-der-durchschnitt-und-trotzdem-unzufrieden/ 
 
 ____
 Bits related to Science: 
