@@ -31,7 +31,7 @@ Public Science Articles:
 
 Grüning, D. J. (14.04.2021). Sind wir schon da? <i>Forschung erleben</i>, German. [https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/] (https://www.uni-mannheim.de/forschung-erleben/artikel/sind-wir-schon-da/)
 
-Grüning, D. J. (09.12.2020). Sei kreative, offenbare dich! <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/] (http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/)
+Grüning, D. J. (09.12.2020). Sei kreative, offenbare dich! <i>Forschung erleben</i>, German. <a href="http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/" target="_blank">http://uni-mannheim.de/forschung-erleben/artikel/sei-kreativ-offenbare-dich/
 
 Grüning, D. J. (29.04.2020). Behandle mich einzigartig! <i>Forschung erleben</i>, German. [http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/] (http://uni-mannheim.de/forschung-erleben/artikel/behandle-mich-einzigartig/)
 
