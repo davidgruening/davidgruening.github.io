@@ -21,6 +21,7 @@ Research Associate & Member of the Scientific Board at [Prosocial Design Network
 Collaborator at [SciBeh](https://www.scibeh.org)
 
 ____
+Science thoughts:
 
 Krueger, J. I., & Grüning, D. J. (26.07.2021). Einhorn’s Theory of Happiness: The statistical mind looks beyond pleasure and pain. <i>Psychology Today</i>. <a href="https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness" target="_blank">https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness
 
