@@ -22,6 +22,8 @@ ____
 
 Krueger, J. I., & Grüning, D. J. (2021). Happier Than Thou: Subjective well-being meets social comparison, <i>Psychology Today</i>. https://www.psychologytoday.com/us/blog/one-among-many/202103/happier-thou 
 
+Krueger, J. I., & Grüning, D. J. (2021). Einhorn’s Theory of Happiness: The statistical mind looks beyond pleasure and pain. <i>Psychology Today</i>. https://www.psychologytoday.com/intl/blog/one-among-many/202107/einhorn-s-theory-happiness 
+
 ____
 
 Collaborator at [SciBeh](https://www.scibeh.org)
