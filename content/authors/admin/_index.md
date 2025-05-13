@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: David
+last_name: Grüning
 
 # Status emoji
 status:
@@ -20,19 +20,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoc and lead scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Max-Planck Institute for Human Development
+    url: https://www.mpib-berlin.mpg.de/person/140747/2537
+  - name: Stanford University
+    url: https://profiles.stanford.edu/gruening
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: 'mailto:gruening@stanford.edu'
+    label: E-mail me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
@@ -47,17 +49,18 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital interventions
+  - Applied impact of research
+  - App-based research
+  - Bridging researcher-practitioner gap
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Digital behavioral science
+    institution: Heidelberg University
+    date_start: 2023-01-01
+    date_end: 2025-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Boosting digital agency through a self-nudge app_. Supervised by [Prof Joe Smith](https://example.com). Five published papers with a sixth one under review (status: 2025/05/12).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
