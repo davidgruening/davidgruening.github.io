@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Dr.
+title: Dr
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: David
 
 # Full name (for SEO)
 first_name: David
